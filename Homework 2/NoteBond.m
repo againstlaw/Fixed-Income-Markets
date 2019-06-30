@@ -73,6 +73,3 @@ title('Bootstrapping Curves','Fontsize',16)
 xlabel('Matuity (years)', 'Fontsize',14)
 legend({'Spot Curve','Par Curve', '6-month Forward'}, 'FontSize', 12, 'Location','southeast')    
 
-
-
-
