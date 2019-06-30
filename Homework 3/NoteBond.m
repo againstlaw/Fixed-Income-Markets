@@ -54,7 +54,6 @@ for i=1:N
 end
 
 
-
 % Problem 1
 % Par rate for semiannual-coupon bonds
 T=1:25;
@@ -72,7 +71,6 @@ grid on
 title('Par Curve','Fontsize',16)
 xlabel('Matuity (years)', 'Fontsize',14)
 ylabel(('{\it c} (%)'), 'Fontsize',14)
-
 
 
 % Problem 2
@@ -99,7 +97,6 @@ plot(T,DV01_up,'-ko','linewidth',1,'MarkerEdgeColor','k','MarkerFaceColor','k','
 grid on
 title('DV01','Fontsize',16)
 xlabel('Matuity (years)', 'Fontsize',14)
-
 
 
 % Problem 3
