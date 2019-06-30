@@ -87,7 +87,6 @@ xlabel('Matuity (years)', 'Fontsize',14)
 
 % Problem 4
 % Par rate
-
 ParRate=zeros(M,1);
 
 for i=1:M
